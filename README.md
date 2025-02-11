@@ -31,8 +31,6 @@ Driven and detail-oriented Senior Tier 2 Technician with extensive experience in
 - Guided and trained interns to produce high-quality, policy-compliant content.
 - Conducted regular meetings to align team members with updated protocols and requirements.
 
-## License & Certifications
-(Add relevant certifications if applicable)
 
 ## Projects
 ### Website Vulnerability Analysis
@@ -52,7 +50,7 @@ Driven and detail-oriented Senior Tier 2 Technician with extensive experience in
 ### Website Creation (XML, Blogger)
 - Developed and hosted a programming tutorial website to assist students in learning coding fundamentals.
 - Regularly updated content for improved user engagement and learning outcomes.
-- Website: [selflearnonline.blogspot.com](http://selflearnonline.blogspot.com)
+- Website: [techquestx.blogspot.com](http://techquestx.blogspot.com)
 
 ## Contact
 For further inquiries or collaboration opportunities, please reach out via email or LinkedIn.
