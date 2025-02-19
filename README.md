@@ -1,57 +1,18 @@
-# Kishore Vijayaragavan - Senior Tier 2 Technician
-
-## Contact Information
-- Email: kishoreragavbusiness@gmail.com  
-- LinkedIn: [Kishore Vijayaragavan](www.linkedin.com/in/kishore-ragav)
-
-## Professional Summary
-Driven and detail-oriented Senior Tier 2 Technician with extensive experience in technical support, configuration management, and troubleshooting complex customer issues. Adept at delivering long-term resolutions and optimizing operational metrics like average handling time (AHT). Proven leadership abilities from managing teams in an online internship, combined with technical expertise in cybersecurity tools, programming, and database management. Committed to continuous learning and delivering impactful solutions.
-
-## Core Competencies
-- **Technical Skills:** Networking tools, Windows tools, Microsoft Excel  
-- **Programming:** Java, C, C++, SQL, XML  
-- **Troubleshooting:** Configuration management, system logs, vulnerability assessments  
-- **Soft Skills:** Communication, leadership, collaboration, policy implementation  
-
-## Professional Experience
-
-### Sutherland — Chennai, Tamil Nadu  
-#### Senior Tier 2 Technician (06/2023 – Present)
-- Troubleshooting and resolving complex customer concerns while maintaining optimal AHT.
-- Providing long-term case resolutions and escalating critical issues when required.
-- Capturing and analyzing system logs for detailed reporting and resolution.
-- Mentoring team members to enhance performance and ensure process adherence.
-
-#### Technical Support Engineer (06/2023 – 11/2023)
-- Addressed customer technical issues with precision and professionalism.
-- Ensured adherence to given resolutions.
-
-### Edumarz — Bangalore, Karnataka  
-#### Content Manager (Online Internship) (01/2022 – 10/2023)
-- Guided and trained interns to produce high-quality, policy-compliant content.
-- Conducted regular meetings to align team members with updated protocols and requirements.
+# 💫 About Me:
+🔐 Cybersecurity & Tech Enthusiast <br>| 💻 Coding & Programming | <br>🚀 Exploring InfoSec, Software Development & Tech Trends | <br>🔗 Stay Secure, Stay Updated!
 
 
-## Projects
-### Website Vulnerability Analysis
-- Conducted a comprehensive website vulnerability check, uncovering risks like cross-site scripting and poor database management.
-- Highlighted exposure risks in database confidentiality and suggested mitigations.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishore___ragav__) 
 
-### Student Database Management System (Java, Eclipse IDE)
-- Designed a dual-interface system for students and teachers to input and view grades.
-- Integrated secure login functionality and efficient data storage mechanisms.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kishore-179&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishore-179&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-179&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Online Bank Database Management System (Java, Eclipse IDE)
-- Built a modular banking database with functionalities for account, transaction, and customer management.
+---
+[![](https://visitcount.itsvg.in/api?id=kishore-179&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Loan Database Management System (Java, SQL, Swing)
-- Created a CRUD-based loan management system to maintain customer records with detailed tracking modules.
-
-### Website Creation (XML, Blogger)
-- Developed and hosted a programming tutorial website to assist students in learning coding fundamentals.
-- Regularly updated content for improved user engagement and learning outcomes.
-- Website: [techquestx.blogspot.com](http://techquestx.blogspot.com)
-
-## Contact
-For further inquiries or collaboration opportunities, please reach out via email or LinkedIn.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
